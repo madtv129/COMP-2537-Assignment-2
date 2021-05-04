@@ -2,10 +2,14 @@
 
 # Authors:
 
-# Aidan Waterson
+Aidan Waterson
 
-# Gavin Knoke
+Gavin Knoke
 
-# Kelvin Lim
+Kelvin Lim
 
-# Joshua Martinez
+Joshua Martinez
+
+
+# Usage
+run npm install in the root directory
