@@ -9,3 +9,7 @@ Gavin Knoke
 Kelvin Lim
 
 Joshua Martinez
+
+
+#Usage
+run npm install in the root directory
