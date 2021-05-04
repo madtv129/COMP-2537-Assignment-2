@@ -11,5 +11,5 @@ Kelvin Lim
 Joshua Martinez
 
 
-#Usage
+# Usage
 run npm install in the root directory
